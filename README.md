@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🐳 :whale: Building the metaverse / Full-stack Game development 🐟 :fish:
+🐳 :whale: Building the metaverse / Network Programming 🐟 :fish:
 
 <img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-AAAAAA?style=flat-square&logo=Unity&logoColor=white"/></a>
