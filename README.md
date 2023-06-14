@@ -12,16 +12,11 @@ Follow me on..
 
 [Naver Blog]
 https://blog.naver.com/khjune29   
-[Currently working with]
-https://www.xreal.info/
 
-8줄 자기소개
+4줄 자기소개
 
-- 🔭 I’m currently working on ... metaverse development w/ Unity
-- 🌱 I’m currently learning ... Game Server written in C++
-- 👯 I’m looking to collaborate on ... a MMORPG project
-- 🤔 I’m looking for help with ... stars and likes!
-- 💬 Ask me about ... KPOP
-- 📫 How to reach me: ... khjune29@gmail.com (personal)
-- 😄 Pronouns: ... Rather not say? (call me Alice)
-- ⚡ Fun fact: ... KPOP-group NMIXX's comeback is today
+- 🔭 I’m currently working on ... autonomous flight and robot perception
+- 🌱 I’m currently learning ...
+algorithms
+- 📫 How to reach me: ... khjune29@gmail.com
+- 😄 baekjoon dalcomi20
