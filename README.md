@@ -8,9 +8,8 @@
 
 
 Follow me on..
-
-[Naver Blog]
-https://blog.naver.com/khjune29   
+Twitter 달쨩🍬 @melikeyabcs
+Codeforces dalcomi20
 
 4줄 자기소개
 
