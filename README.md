@@ -9,13 +9,12 @@
 <img src="https://img.shields.io/badge/Pytorch-ED7014?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 
 Follow me on..
-Twitter 달쨩🍬 @melikeyabcs
 Codeforces dalcomi20
 
 4줄 자기소개
 
 - 🔭 I’m currently working on ... autonomous flight and robot perception
 - 🌱 I’m currently learning ...
-algorithms
+Visual slam and bayes networks
 - 📫 How to reach me: ... khjune29@gmail.com
 - 😄 baekjoon/solved.ac: dalcomi20
